@@ -1,0 +1,56 @@
+﻿<Properties StartupConfiguration="{4F1F649C-1020-45BE-A487-F416D9297FF3}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Libraries/Nop.Core/Caching/MemoryCacheManager.cs">
+    <Files>
+      <File FileName="Presentation/Nop.Web/Views/Home/Index.cshtml" Line="17" Column="9" />
+      <File FileName="Presentation/Nop.Web.Framework/Infrastructure/DependencyRegistrar.cs" Line="333" Column="1" />
+      <File FileName="Presentation/Nop.Web.Framework/Infrastructure/Extensions/ApplicationBuilderExtensions.cs" Line="136" Column="1" />
+      <File FileName="Libraries/Nop.Services/Customers/CustomerService.cs" Line="426" Column="1" />
+      <File FileName="Libraries/Nop.Core/Caching/MemoryCacheManager.cs" Line="84" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="NopCommerce" expanded="True">
+            <Node name="Libraries" expanded="True">
+              <Node name="Nop.Core" expanded="True">
+                <Node name="Caching" expanded="True">
+                  <Node name="MemoryCacheManager.cs" selected="True" />
+                </Node>
+              </Node>
+              <Node name="Nop.Services" expanded="True" />
+            </Node>
+            <Node name="Presentation" expanded="True">
+              <Node name="Nop.Web" expanded="True">
+                <Node name="Views" expanded="True">
+                  <Node name="Home" expanded="True" />
+                  <Node name="Topic" expanded="True" />
+                </Node>
+              </Node>
+              <Node name="Nop.Web.Framework" expanded="True">
+                <Node name="Infrastructure" expanded="True">
+                  <Node name="Extensions" expanded="True" />
+                </Node>
+                <Node name="UI" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="NopCommerce" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Presentation.Nop.Web PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

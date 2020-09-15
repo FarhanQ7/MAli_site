@@ -1,0 +1,6 @@
+﻿{
+  "DataConnectionString": "Server=tcp:ecomserv.database.windows.net,1433;Initial Catalog=EcomDatabase;Persist Security Info=False;User ID=fqureshi;Password=There is no God except Allah 1;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;",
+  "DataProvider": "sqlserver",
+  "SQLCommandTimeout": null,
+  "RawDataSettings": {}
+}
